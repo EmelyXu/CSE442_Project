@@ -19,4 +19,3 @@ Developers:
     - The only branch that should be merged into master should be develop
     - Do not perform merges with develop or master unless everyone has agreed to it first
 
-To play the current release version go to cse.buffalo.edu/~emerycom
